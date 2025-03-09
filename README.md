@@ -1,10 +1,10 @@
-﻿# Data Visualization
-# First part: Customer Churn Analysis: Exploratory Data Analysis (EDA)
+﻿# Data Visualization : Customer Churn Analysis
+# First part: Exploratory Data Analysis (EDA)
 ##  Overview
 This project focuses on performing an **Exploratory Data Analysis (EDA)** on a customer churn dataset to gain insights into factors driving customer retention and attrition. The dataset comprises 21 columns, capturing customer demographics, service usage, billing information, and churn status, providing a rich basis for identifying patterns that can inform strategies to reduce churn.
 
-## What We Have Done
-We conducted a thorough EDA to explore the dataset and uncover actionable insights. Key steps include:
+## What I Have Done
+I conducted a thorough EDA to explore the dataset and uncover actionable insights. Key steps include:
 
 - **Initial Data Inspection**: Examined the dataset structure, checking for missing values, duplicates, and data types to understand its quality and characteristics.
 - **Data Cleaning**:
